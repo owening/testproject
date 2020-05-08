@@ -1,0 +1,54 @@
+{
+  "uid" : "999dda928adaa754",
+  "name" : "test_skip",
+  "fullName" : "test_alluredemo1#test_skip",
+  "historyId" : "9af340dd435adc1e4fb5c3769d9a146f",
+  "time" : {
+    "start" : 1588912714620,
+    "stop" : 1588912714621,
+    "duration" : 1
+  },
+  "description" : "this test is skipped",
+  "descriptionHtml" : "<p>this test is skipped</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: for a reason!",
+  "statusTrace" : "('C:\\\\Users\\\\Administrator\\\\PycharmProjects\\\\testproject\\\\result\\\\test_alluredemo1.py', 15, 'Skipped: for a reason!')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_alluredemo1"
+  }, {
+    "name" : "host",
+    "value" : "PC-20201204TOIX"
+  }, {
+    "name" : "thread",
+    "value" : "8088-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_alluredemo1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "999dda928adaa754.json",
+  "parameterValues" : [ ]
+}
